@@ -1,8 +1,8 @@
 {
   "name": "RICH PEPE #25",
   "description": "Exclusive RICH PEPE collection artwork on Monad Mainnet.",
-  "image": "https://ipfs.filebase.io/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
-  "image_url": "https://ipfs.filebase.io/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "image": "ipfs://QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "image_url": "ipfs://QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
   "attributes": [
     {
       "trait_type": "Collection",
