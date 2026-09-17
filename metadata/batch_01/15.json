@@ -1,0 +1,23 @@
+{
+  "name": "Radiant Frog #15",
+  "description": "A unique artwork from the Radiant Frog Twilight collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmU4nWEu2GVNVEsbuHRvBeRa8kgjhdYuXwpvqwn54uPRQc/group_batch_01.png",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Radiant"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "15"
+    }
+  ]
+}
