@@ -1,0 +1,24 @@
+{
+  "name": "Quantum Ribbit #9",
+  "description": "A unique artwork from the Quantum Ribbit Vision collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW4yoQbg2ifhhv82PxcMwNmqGZ1mV2dJ5eVG4Y7rshKmg",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmW4yoQbg2ifhhv82PxcMwNmqGZ1mV2dJ5eVG4Y7rshKmg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Quantum"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Vision"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "9"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Cipher Ribbit #24",
+  "description": "A unique artwork from the Cipher Ribbit Matrix collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWzFMxhQygJjt4epzAxFrV7T6wUDdjhYvrndeKUnstQ9X",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmWzFMxhQygJjt4epzAxFrV7T6wUDdjhYvrndeKUnstQ9X",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "24"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Zodiac Fren #6",
+  "description": "A unique artwork from the Zodiac Fren Aura collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSpH6MtUYimHn3vLYtcwGVyYvFVveGw4v9jsC6dR9akBk",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmSpH6MtUYimHn3vLYtcwGVyYvFVveGw4v9jsC6dR9akBk",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Zodiac"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Aura"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

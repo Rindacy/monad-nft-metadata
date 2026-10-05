@@ -1,0 +1,24 @@
+{
+  "name": "Ember Artifact #15",
+  "description": "A unique artwork from the Ember Artifact Enclave collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmP5YjMnKb2ppRvm42yDEVDkmfyHiWupNbRG1kyYGYJvV2",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmP5YjMnKb2ppRvm42yDEVDkmfyHiWupNbRG1kyYGYJvV2",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Ember"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Enclave"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "15"
+    }
+  ]
+}

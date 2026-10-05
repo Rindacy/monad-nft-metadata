@@ -1,0 +1,20 @@
+{
+  "name": "MATRIX HAS YOU #1",
+  "description": "follow the white rabbit...",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "MATRIX HAS YOU"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

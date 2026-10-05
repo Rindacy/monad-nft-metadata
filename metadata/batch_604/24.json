@@ -1,0 +1,24 @@
+{
+  "name": "Solaria Hodler #24",
+  "description": "A unique artwork from the Solaria Hodler Matrix collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Solaria"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "24"
+    }
+  ]
+}

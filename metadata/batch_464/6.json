@@ -1,0 +1,24 @@
+{
+  "name": "Astronis Rare #6",
+  "description": "A unique artwork from the Astronis Rare Circle collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTw1DmUnLCxgquzS1j1eEw1HavGJwbyPdpYBBoVvtiUHU",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmTw1DmUnLCxgquzS1j1eEw1HavGJwbyPdpYBBoVvtiUHU",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Astronis"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

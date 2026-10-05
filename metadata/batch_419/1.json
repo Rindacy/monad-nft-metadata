@@ -1,0 +1,24 @@
+{
+  "name": "Prism Rare #1",
+  "description": "A unique artwork from the Prism Rare Domain collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Domain"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

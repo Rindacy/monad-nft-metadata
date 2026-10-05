@@ -1,0 +1,24 @@
+{
+  "name": "Paradox Sentinel #16",
+  "description": "A unique artwork from the Paradox Sentinel Finality collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmS1wwfkZQQcQdNEYrSvPS8yUw4BEQu1VNNrMcFcnTTaDw",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmS1wwfkZQQcQdNEYrSvPS8yUw4BEQu1VNNrMcFcnTTaDw",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Paradox"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Finality"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "16"
+    }
+  ]
+}

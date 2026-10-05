@@ -1,0 +1,20 @@
+{
+  "name": "Enigma Specter Sanctuary",
+  "description": "A unique artwork from the Enigma Specter Sanctuary collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Enigma"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sanctuary"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Aethel Amphibia #4",
+  "description": "A unique artwork from the Aethel Amphibia Collective collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Aethel"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Collective"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

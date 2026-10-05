@@ -1,0 +1,24 @@
+{
+  "name": "Warp Kek #4",
+  "description": "A unique artwork from the Warp Kek Portal collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQE7ZjzxzUCMeB7bR8FPGWhLL2iJx61vFGWBznzb4bW7H",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmQE7ZjzxzUCMeB7bR8FPGWhLL2iJx61vFGWBznzb4bW7H",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Warp"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Portal"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

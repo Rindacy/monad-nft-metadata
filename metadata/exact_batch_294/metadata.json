@@ -1,0 +1,21 @@
+{
+  "name": "Spark Artifact Dream",
+  "description": "A unique artwork from the Spark Artifact Dream collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a/group_batch_294.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a/group_batch_294.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spark"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Artifact"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

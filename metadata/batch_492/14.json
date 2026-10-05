@@ -1,0 +1,24 @@
+{
+  "name": "Futura Fren #14",
+  "description": "A unique artwork from the Futura Fren Chamber collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmbz6T6QTWifysPtE1t2Nv42FEhJ73GP1V1SGG4vzd25NA",
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmbz6T6QTWifysPtE1t2Nv42FEhJ73GP1V1SGG4vzd25NA",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Futura"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Chamber"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "14"
+    }
+  ]
+}

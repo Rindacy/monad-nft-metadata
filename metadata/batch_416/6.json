@@ -1,0 +1,24 @@
+{
+  "name": "Elysian Artifact #6",
+  "description": "A unique artwork from the Elysian Artifact Alliance collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmee5RptA6WyLQDs6GVYrXXBBQ2zU9AKK2a6BgmHWx2HjU",
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmee5RptA6WyLQDs6GVYrXXBBQ2zU9AKK2a6BgmHWx2HjU",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Elysian"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Alliance"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

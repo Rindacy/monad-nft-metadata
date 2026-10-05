@@ -1,0 +1,25 @@
+{
+  "name": "Arcane Artifact Editions #4",
+  "description": "A unique artwork from the Arcane Artifact Editions collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq/group_batch_309.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq/group_batch_309.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Editions"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Onyx Rare Circle #3",
+  "description": "A unique artwork from the Onyx Rare Circle collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdP5wwWYAUZiW5qapsEoQW8G99AKMQDLZBKFKPbuiGXfp/group_batch_305.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmdP5wwWYAUZiW5qapsEoQW8G99AKMQDLZBKFKPbuiGXfp/group_batch_305.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Onyx"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ]
+}

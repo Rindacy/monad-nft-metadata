@@ -1,0 +1,24 @@
+{
+  "name": "Solstice Pioneer #1",
+  "description": "A unique artwork from the Solstice Pioneer Rebirth collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW4t7jw6xAYoGPzyu139B8mSJLdaL9fJd2gyMNnN8b6zi",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmW4t7jw6xAYoGPzyu139B8mSJLdaL9fJd2gyMNnN8b6zi",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rebirth"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

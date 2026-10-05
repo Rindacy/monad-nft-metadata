@@ -1,0 +1,24 @@
+{
+  "name": "Pulse Entity #14",
+  "description": "A unique artwork from the Pulse Entity Lab collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW4yoQbg2ifhhv82PxcMwNmqGZ1mV2dJ5eVG4Y7rshKmg",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmW4yoQbg2ifhhv82PxcMwNmqGZ1mV2dJ5eVG4Y7rshKmg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Pulse"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Lab"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "14"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Helix Sigil #1",
+  "description": "A unique artwork from the Helix Sigil Works collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWdy7Fgk9q4PJAwfEfJFVQAH1F86XifVtZhfWJwYfFr9Z",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmWdy7Fgk9q4PJAwfEfJFVQAH1F86XifVtZhfWJwYfFr9Z",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Helix"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Works"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

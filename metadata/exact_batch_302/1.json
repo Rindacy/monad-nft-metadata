@@ -1,0 +1,25 @@
+{
+  "name": "Aurora Lily Pieces #1",
+  "description": "A unique artwork from the Aurora Lily Pieces collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcW1iABnnTNGq3YXDK1nMUAiPMEza9HAJnAbUcLTxia81/group_batch_302.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmcW1iABnnTNGq3YXDK1nMUAiPMEza9HAJnAbUcLTxia81/group_batch_302.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Lily"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

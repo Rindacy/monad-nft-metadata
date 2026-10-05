@@ -1,0 +1,20 @@
+{
+  "name": "Hyperdrive Amphibia Matrix",
+  "description": "A unique artwork from the Hyperdrive Amphibia Matrix collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmQHaGHw8K9YXk2XAhVtAQLqFYMAtd6jYKCg7TK4R5kRMN",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmQHaGHw8K9YXk2XAhVtAQLqFYMAtd6jYKCg7TK4R5kRMN",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Hyperdrive"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

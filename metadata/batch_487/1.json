@@ -1,0 +1,24 @@
+{
+  "name": "Lumina Oracle #1",
+  "description": "A unique artwork from the Lumina Oracle Vision collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVYp8gSPVuZNVBbLokby3j8efL1JLqucUjDRBTx8w45s2",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVYp8gSPVuZNVBbLokby3j8efL1JLqucUjDRBTx8w45s2",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lumina"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Vision"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

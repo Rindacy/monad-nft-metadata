@@ -1,0 +1,24 @@
+{
+  "name": "Rift Canvas #5",
+  "description": "A unique artwork from the Rift Canvas Domain collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaReERerWDSK4SnAtakA2cSR3L98L3ZakAMDuFWAn2Rxc",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmaReERerWDSK4SnAtakA2cSR3L98L3ZakAMDuFWAn2Rxc",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Rift"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Domain"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "5"
+    }
+  ]
+}

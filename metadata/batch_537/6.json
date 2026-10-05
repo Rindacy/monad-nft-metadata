@@ -1,0 +1,24 @@
+{
+  "name": "Aether Kek #6",
+  "description": "A unique artwork from the Aether Kek Balance collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcjcroPdgHuWyk8zAs7R1MpaAmURpq9YHSWftM1soCA3S",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmcjcroPdgHuWyk8zAs7R1MpaAmURpq9YHSWftM1soCA3S",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Aether"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

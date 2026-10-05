@@ -1,0 +1,24 @@
+{
+  "name": "Velocity Icon #2",
+  "description": "A unique artwork from the Velocity Icon Citadel collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWGJVbZ7b1vihh41z1YAN3RXEwWh5ZL2JRXLZZP6zvXCq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmWGJVbZ7b1vihh41z1YAN3RXEwWh5ZL2JRXLZZP6zvXCq",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Velocity"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Citadel"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

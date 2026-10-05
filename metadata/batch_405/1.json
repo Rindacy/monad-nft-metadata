@@ -1,0 +1,24 @@
+{
+  "name": "Monad Vision #1",
+  "description": "A unique artwork from the Monad Vision Balance collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYUzbtieoBWsaK8mVAfKP1ugmMVwQJZ1ZRkkUo5rcEsbB",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYUzbtieoBWsaK8mVAfKP1ugmMVwQJZ1ZRkkUo5rcEsbB",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

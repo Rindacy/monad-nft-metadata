@@ -1,0 +1,24 @@
+{
+  "name": "Utopia Toad #22",
+  "description": "A unique artwork from the Utopia Toad Society collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Utopia"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Society"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "22"
+    }
+  ]
+}

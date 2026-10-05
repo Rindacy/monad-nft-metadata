@@ -1,0 +1,25 @@
+{
+  "name": "Quasar Canvas Dimension #22",
+  "description": "A unique artwork from the Quasar Canvas Dimension collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Quasar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Dimension"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "22"
+    }
+  ]
+}

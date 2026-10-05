@@ -1,0 +1,24 @@
+{
+  "name": "Solar Amphibia #1",
+  "description": "A unique artwork from the Solar Amphibia Energy collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Solar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Energy"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

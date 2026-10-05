@@ -1,0 +1,24 @@
+{
+  "name": "Lumina Kek #5",
+  "description": "A unique artwork from the Lumina Kek Rebirth collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lumina"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rebirth"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "5"
+    }
+  ]
+}

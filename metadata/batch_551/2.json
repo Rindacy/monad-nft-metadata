@@ -1,0 +1,24 @@
+{
+  "name": "Mythic Totem #2",
+  "description": "A unique artwork from the Mythic Totem Portal collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbCiC9HpQKarxgZbGB8iLxLNFDGotsoM9egXF7rN5MFzj",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbCiC9HpQKarxgZbGB8iLxLNFDGotsoM9egXF7rN5MFzj",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Portal"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

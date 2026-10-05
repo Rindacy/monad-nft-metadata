@@ -1,0 +1,24 @@
+{
+  "name": "Titan Pond #2",
+  "description": "A unique artwork from the Titan Pond Vector collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Titan"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Vector"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

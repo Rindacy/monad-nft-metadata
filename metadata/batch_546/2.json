@@ -1,0 +1,24 @@
+{
+  "name": "Aetherium Nomad #2",
+  "description": "A unique artwork from the Aetherium Nomad Collective collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmd41UYtjksf1TZDoqvFUGGjL8Gd3RRfXcHLttSuVBPCsD",
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmd41UYtjksf1TZDoqvFUGGjL8Gd3RRfXcHLttSuVBPCsD",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Aetherium"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Collective"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

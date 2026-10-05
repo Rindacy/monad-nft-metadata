@@ -1,0 +1,24 @@
+{
+  "name": "Crystal Icon #2",
+  "description": "A unique artwork from the Crystal Icon Gallery collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdP5wwWYAUZiW5qapsEoQW8G99AKMQDLZBKFKPbuiGXfp",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmdP5wwWYAUZiW5qapsEoQW8G99AKMQDLZBKFKPbuiGXfp",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Gallery"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

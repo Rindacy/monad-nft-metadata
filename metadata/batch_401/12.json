@@ -1,0 +1,24 @@
+{
+  "name": "Krypton Rare #12",
+  "description": "A unique artwork from the Krypton Rare Illusion collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPBL9TBHkpL4FGK9sSSr6iKoKnE3U1AwFCsqXrQwiLaKj",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmPBL9TBHkpL4FGK9sSSr6iKoKnE3U1AwFCsqXrQwiLaKj",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Krypton"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Illusion"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "12"
+    }
+  ]
+}

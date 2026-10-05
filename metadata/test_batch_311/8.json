@@ -1,0 +1,25 @@
+{
+  "name": "Vektor Frog Foundry #8",
+  "description": "A unique artwork from the Vektor Frog Foundry collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Vektor"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Foundry"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "8"
+    }
+  ]
+}

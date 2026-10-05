@@ -1,0 +1,24 @@
+{
+  "name": "Lunar Lily #19",
+  "description": "A unique artwork from the Lunar Lily Light collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lunar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "19"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Vesper Relic Dimension #2",
+  "description": "A unique artwork from the Vesper Relic Dimension collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf/group_batch_300.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf/group_batch_300.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Vesper"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Relic"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

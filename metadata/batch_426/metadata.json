@@ -1,0 +1,20 @@
+{
+  "name": "Cyber Croak Shift",
+  "description": "A unique artwork from the Cyber Croak Shift collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Cyber"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Shift"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

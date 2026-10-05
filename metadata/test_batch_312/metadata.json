@@ -1,0 +1,21 @@
+{
+  "name": "Solstice Crest Legacy",
+  "description": "A unique artwork from the Solstice Crest Legacy collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Legacy"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

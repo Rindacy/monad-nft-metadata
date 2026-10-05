@@ -1,0 +1,25 @@
+{
+  "name": "Zephyr Sentinel Enclave #7",
+  "description": "A unique artwork from the Zephyr Sentinel Enclave collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg/group_batch_308.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg/group_batch_308.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Enclave"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

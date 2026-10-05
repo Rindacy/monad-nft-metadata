@@ -1,0 +1,24 @@
+{
+  "name": "Velvet Echo #8",
+  "description": "A unique artwork from the Velvet Echo Nexus collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmerdRvAuQxoau7Jh6uP6vjcDnbuTpbAxZQMib3m5v3kQN",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmerdRvAuQxoau7Jh6uP6vjcDnbuTpbAxZQMib3m5v3kQN",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Velvet"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Nexus"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "8"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Chronos Artifact #7",
+  "description": "A unique artwork from the Chronos Artifact Starlight collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Chronos"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Starlight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

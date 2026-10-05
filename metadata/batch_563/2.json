@@ -1,0 +1,24 @@
+{
+  "name": "Equinox Pond #2",
+  "description": "A unique artwork from the Equinox Pond Forge collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Equinox"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Forge"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

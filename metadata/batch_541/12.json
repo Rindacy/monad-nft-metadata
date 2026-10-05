@@ -1,0 +1,24 @@
+{
+  "name": "Crystal Fren #12",
+  "description": "A unique artwork from the Crystal Fren Balance collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQfgfshoQm29hRU5qxEpw5W6zggY91g8gjqNmobNTB18D",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmQfgfshoQm29hRU5qxEpw5W6zggY91g8gjqNmobNTB18D",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "12"
+    }
+  ]
+}

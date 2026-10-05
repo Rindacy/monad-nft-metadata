@@ -1,0 +1,21 @@
+{
+  "name": "Astra Amphibia Prime #1",
+  "description": "A unique artwork from the Astra Amphibia Prime collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Astra Amphibia Prime"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

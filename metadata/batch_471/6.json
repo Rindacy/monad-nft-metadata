@@ -1,0 +1,24 @@
+{
+  "name": "Monad Canvas #6",
+  "description": "A unique artwork from the Monad Canvas Finality collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmQyZU29fY3KMYkgyZGtdtDGZaH93R16zfRjVyidPzjAYf",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Finality"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

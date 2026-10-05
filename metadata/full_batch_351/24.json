@@ -1,0 +1,25 @@
+{
+  "name": "Vortex Icon Starlight #24",
+  "description": "A unique artwork from the Vortex Icon Starlight collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXQ9EnZWb46LPsksVrrZQkBAFBDyFkLWD8ukacqEh8x1B",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmXQ9EnZWb46LPsksVrrZQkBAFBDyFkLWD8ukacqEh8x1B",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Starlight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "24"
+    }
+  ]
+}

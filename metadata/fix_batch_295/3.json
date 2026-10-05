@@ -1,0 +1,21 @@
+{
+  "name": "Spectral Guardian Rebirth #3",
+  "description": "A unique artwork from the Spectral Guardian Rebirth collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spectral Guardian Rebirth"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ]
+}
