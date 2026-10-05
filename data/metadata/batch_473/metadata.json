@@ -1,0 +1,20 @@
+{
+  "name": "Kinetix Sentinel Originals",
+  "description": "A unique artwork from the Kinetix Sentinel Originals collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Kinetix"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Originals"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Velvet WAGMI #14",
+  "description": "A unique artwork from the Velvet WAGMI Enclave collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmXrWJ2NiugQdYVMbKVezsUBkjJQRuHDAsLFm325UgkrYv",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmXrWJ2NiugQdYVMbKVezsUBkjJQRuHDAsLFm325UgkrYv",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Velvet"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Enclave"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "14"
+    }
+  ]
+}

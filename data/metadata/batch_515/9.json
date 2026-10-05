@@ -1,0 +1,24 @@
+{
+  "name": "Astrum Rare #9",
+  "description": "A unique artwork from the Astrum Rare Balance collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmVigBy46gdAcBhGB6EfNKz2WJbJh2SgKqE2Mj5EHMUjqW",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmVigBy46gdAcBhGB6EfNKz2WJbJh2SgKqE2Mj5EHMUjqW",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Astrum"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "9"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Orion Pepe #6",
+  "description": "A unique artwork from the Orion Pepe Pieces collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/Qmaiw79qQaXjFad98P19w8PrMGd1DEEf45ViRycXBAGGJ2",
+  "image_url": "https://ipfs.filebase.io/ipfs/Qmaiw79qQaXjFad98P19w8PrMGd1DEEf45ViRycXBAGGJ2",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Pieces"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hyperion Pepe #7",
+  "description": "A unique artwork from the Hyperion Pepe Rebirth collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTCBj9g4b8ihxhurVpVvzewNf6KYjwjY2ReuxDMNjGbM7",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmTCBj9g4b8ihxhurVpVvzewNf6KYjwjY2ReuxDMNjGbM7",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Hyperion"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rebirth"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

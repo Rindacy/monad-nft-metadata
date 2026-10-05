@@ -1,0 +1,24 @@
+{
+  "name": "Synthetix Rare #8",
+  "description": "A unique artwork from the Synthetix Rare Citadel collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdaDrTX8vdZfVSWAkB1hewiGX6qvqkMNpSpi1gjDJjoQ6",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmdaDrTX8vdZfVSWAkB1hewiGX6qvqkMNpSpi1gjDJjoQ6",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Synthetix"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Citadel"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "8"
+    }
+  ]
+}

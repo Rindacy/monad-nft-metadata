@@ -1,0 +1,24 @@
+{
+  "name": "Neural Fren #4",
+  "description": "A unique artwork from the Neural Fren Realm collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmcWJDLrrgqqf9BLcznghEg5GAQ6xt8kUzm31TjQy9e1XR",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmcWJDLrrgqqf9BLcznghEg5GAQ6xt8kUzm31TjQy9e1XR",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Neural"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Realm"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Prismatic Entity Speed #10",
+  "description": "A unique artwork from the Prismatic Entity Speed collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Prismatic"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Speed"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "10"
+    }
+  ]
+}

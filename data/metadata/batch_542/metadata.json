@@ -1,0 +1,20 @@
+{
+  "name": "Mirage Entity Works",
+  "description": "A unique artwork from the Mirage Entity Works collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Works"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

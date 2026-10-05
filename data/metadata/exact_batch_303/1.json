@@ -1,0 +1,25 @@
+{
+  "name": "Sovereign Hodler Chamber #1",
+  "description": "A unique artwork from the Sovereign Hodler Chamber collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXQ9EnZWb46LPsksVrrZQkBAFBDyFkLWD8ukacqEh8x1B/group_batch_303.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmXQ9EnZWb46LPsksVrrZQkBAFBDyFkLWD8ukacqEh8x1B/group_batch_303.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Sovereign"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Hodler"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

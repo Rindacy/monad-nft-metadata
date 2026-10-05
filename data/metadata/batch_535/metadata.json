@@ -1,0 +1,20 @@
+{
+  "name": "Spectra Ribbit Guild",
+  "description": "A unique artwork from the Spectra Ribbit Guild collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVbkpDwkL4BCNoaniBRErcdfoe8mrDA3YMEJAQSMcATTu",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spectra"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Guild"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

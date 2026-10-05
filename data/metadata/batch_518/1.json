@@ -1,0 +1,24 @@
+{
+  "name": "Spectral Frog #1",
+  "description": "A unique artwork from the Spectral Frog Shift collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmZQwWQ3AZKUT6jdcKuvnngXfSSmqLf6KG4vrNRRLFuXZ8",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Shift"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

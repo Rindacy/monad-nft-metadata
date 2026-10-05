@@ -1,0 +1,25 @@
+{
+  "name": "Zodiac Crest Chamber #7",
+  "description": "A unique artwork from the Zodiac Crest Chamber collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq/group_batch_307.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmacoiESUARWU1Z44Rdrf6XSXJMRkjSLx54b5mPNDsXjCq/group_batch_307.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Zodiac"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Chamber"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

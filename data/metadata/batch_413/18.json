@@ -1,0 +1,24 @@
+{
+  "name": "Hyperion Toad #18",
+  "description": "A unique artwork from the Hyperion Toad Editions collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPBL9TBHkpL4FGK9sSSr6iKoKnE3U1AwFCsqXrQwiLaKj",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmPBL9TBHkpL4FGK9sSSr6iKoKnE3U1AwFCsqXrQwiLaKj",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Hyperion"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Editions"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "18"
+    }
+  ]
+}

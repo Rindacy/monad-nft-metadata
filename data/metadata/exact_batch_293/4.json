@@ -1,0 +1,25 @@
+{
+  "name": "Matrix Crest Art #4",
+  "description": "A unique artwork from the Matrix Crest Art collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq/group_batch_293.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmbzkmA3QfbsHX5nQAegwMs6hZkTjVtymqz4Lrk5eQFmBq/group_batch_293.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Crest"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cipher Emblem Spectrum #12",
+  "description": "A unique artwork from the Cipher Emblem Spectrum collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmPsNzQ7MovCJ9tRK4dasXCxr4r6oqMGbS18K3ViDCk38a",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Spectrum"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "12"
+    }
+  ]
+}

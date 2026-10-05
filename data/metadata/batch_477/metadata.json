@@ -1,0 +1,20 @@
+{
+  "name": "Mystic Oracle Vision",
+  "description": "A unique artwork from the Mystic Oracle Vision collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfSw4MS5ehyjqw2tdfRupta5TF8FeDfkU6GtBXTkPfQxR",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmfSw4MS5ehyjqw2tdfRupta5TF8FeDfkU6GtBXTkPfQxR",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Vision"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

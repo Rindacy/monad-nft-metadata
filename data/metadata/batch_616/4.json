@@ -1,0 +1,24 @@
+{
+  "name": "Sovereign Avatar #4",
+  "description": "A unique artwork from the Sovereign Avatar Syndicate collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUnWFcmmmJKSfFH79nze7BYXu7myjZtHx9ak1cDNPCSzG",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmUnWFcmmmJKSfFH79nze7BYXu7myjZtHx9ak1cDNPCSzG",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Sovereign"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Syndicate"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Warp Relic #2",
+  "description": "A unique artwork from the Warp Relic Works collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmV6S267mwJQsg9uqbsMDgixe9ym1q1b1kKxZgyyesc1By",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmV6S267mwJQsg9uqbsMDgixe9ym1q1b1kKxZgyyesc1By",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Warp"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Works"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

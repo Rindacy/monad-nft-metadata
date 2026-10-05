@@ -1,0 +1,24 @@
+{
+  "name": "Astrum Canvas #5",
+  "description": "A unique artwork from the Astrum Canvas Originals collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcupJQUUa6DDYwnUqTfChxUw4T6ZCvD5rnLd75hWhzCsQ",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmcupJQUUa6DDYwnUqTfChxUw4T6ZCvD5rnLd75hWhzCsQ",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Astrum"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Originals"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "5"
+    }
+  ]
+}

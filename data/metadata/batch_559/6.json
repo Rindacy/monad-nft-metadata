@@ -1,0 +1,24 @@
+{
+  "name": "Lunar Totem #6",
+  "description": "A unique artwork from the Lunar Totem Colossus collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lunar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Colossus"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

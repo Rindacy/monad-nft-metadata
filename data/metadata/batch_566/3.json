@@ -1,0 +1,24 @@
+{
+  "name": "Lumina Pioneer #3",
+  "description": "A unique artwork from the Lumina Pioneer Shift collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVwfHdZHwb5SfB2T23xKjsa2Pn65Cia9Gca5kdM6ejMzu",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVwfHdZHwb5SfB2T23xKjsa2Pn65Cia9Gca5kdM6ejMzu",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lumina"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Shift"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ]
+}

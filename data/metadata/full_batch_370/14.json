@@ -1,0 +1,25 @@
+{
+  "name": "Mirage Aura Edition #14",
+  "description": "A unique artwork from the Mirage Aura Edition collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVyqezkrdBzuK2WqCKxzi57Lvx5ihNRZg8gybhVnH7R78/images/group_batch_370.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVyqezkrdBzuK2WqCKxzi57Lvx5ihNRZg8gybhVnH7R78/images/group_batch_370.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Mirage"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Edition"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "14"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Hyperdrive WAGMI #2",
+  "description": "A unique artwork from the Hyperdrive WAGMI Dimension collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Hyperdrive"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Dimension"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

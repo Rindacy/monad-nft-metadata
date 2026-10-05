@@ -1,0 +1,24 @@
+{
+  "name": "Solar Nomad #24",
+  "description": "A unique artwork from the Solar Nomad Sanctuary collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVwfHdZHwb5SfB2T23xKjsa2Pn65Cia9Gca5kdM6ejMzu",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVwfHdZHwb5SfB2T23xKjsa2Pn65Cia9Gca5kdM6ejMzu",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Solar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Sanctuary"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "24"
+    }
+  ]
+}

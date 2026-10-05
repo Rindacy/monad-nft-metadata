@@ -1,0 +1,24 @@
+{
+  "name": "Krypto Entity #12",
+  "description": "A unique artwork from the Krypto Entity Edition collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Krypto"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Edition"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "12"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tachyon Seeker #21",
+  "description": "A unique artwork from the Tachyon Seeker Order collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmerdRvAuQxoau7Jh6uP6vjcDnbuTpbAxZQMib3m5v3kQN",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmerdRvAuQxoau7Jh6uP6vjcDnbuTpbAxZQMib3m5v3kQN",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Tachyon"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Order"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "21"
+    }
+  ]
+}

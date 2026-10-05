@@ -1,0 +1,24 @@
+{
+  "name": "Orion Specter #9",
+  "description": "A unique artwork from the Orion Specter Collective collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Orion"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Collective"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "9"
+    }
+  ]
+}

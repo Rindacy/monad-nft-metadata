@@ -1,0 +1,24 @@
+{
+  "name": "Spectral Hodler #1",
+  "description": "A unique artwork from the Spectral Hodler Masterpiece collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSEBxypSPhFEBAtYWgTsXHHMAN7wX9gs7eQ1osDdpGsA3",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmSEBxypSPhFEBAtYWgTsXHHMAN7wX9gs7eQ1osDdpGsA3",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Masterpiece"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Zenith Glyph #4",
+  "description": "A unique artwork from the Zenith Glyph Finality collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWdy7Fgk9q4PJAwfEfJFVQAH1F86XifVtZhfWJwYfFr9Z",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmWdy7Fgk9q4PJAwfEfJFVQAH1F86XifVtZhfWJwYfFr9Z",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Zenith"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Finality"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

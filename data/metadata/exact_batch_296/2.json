@@ -1,0 +1,25 @@
+{
+  "name": "Lunar Rare Domain #2",
+  "description": "A unique artwork from the Lunar Rare Domain collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR/group_batch_296.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmZEkJqmmEL42iPBHv7BXUPAq2Sx9vSQFmyQM879SRieRR/group_batch_296.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Lunar"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "2"
+    }
+  ]
+}

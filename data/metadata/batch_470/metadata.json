@@ -1,0 +1,20 @@
+{
+  "name": "Neural Vision Twilight",
+  "description": "A unique artwork from the Neural Vision Twilight collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmeA4Xr69v2fuNG23yHcjMdW4rC6p4Jzy2D9ZqVr7CgMyv",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmeA4Xr69v2fuNG23yHcjMdW4rC6p4Jzy2D9ZqVr7CgMyv",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Neural"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

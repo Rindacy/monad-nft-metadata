@@ -1,0 +1,25 @@
+{
+  "name": "Helios Icon Nexus #7",
+  "description": "A unique artwork from the Helios Icon Nexus collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmVVqLDp9tBtaYnG621F5AicLactiez4SGSgAbyZo7R7Gg",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Helios"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Nexus"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Radiant Fren Finality",
+  "description": "A unique artwork from the Radiant Fren Finality collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdaDrTX8vdZfVSWAkB1hewiGX6qvqkMNpSpi1gjDJjoQ6",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmdaDrTX8vdZfVSWAkB1hewiGX6qvqkMNpSpi1gjDJjoQ6",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Radiant"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Finality"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}

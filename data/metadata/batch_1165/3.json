@@ -1,0 +1,20 @@
+{
+  "name": "MATRIX HAS YOU #3",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/group_batch_1165.gif",
+  "image_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/group_batch_1165.gif",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "MATRIX HAS YOU"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "3"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Obsidian WAGMI #15",
+  "description": "A unique artwork from the Obsidian WAGMI Series collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmd41UYtjksf1TZDoqvFUGGjL8Gd3RRfXcHLttSuVBPCsD",
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmd41UYtjksf1TZDoqvFUGGjL8Gd3RRfXcHLttSuVBPCsD",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Series"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "15"
+    }
+  ]
+}

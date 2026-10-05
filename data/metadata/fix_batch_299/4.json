@@ -1,0 +1,21 @@
+{
+  "name": "Kinetix Artifact Starlight #4",
+  "description": "A unique artwork from the Kinetix Artifact Starlight collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYu7ymhSecGsFuT19GPrCp1CJ67geKAoJEdEsFSpxaNnT",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Kinetix Artifact Starlight"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

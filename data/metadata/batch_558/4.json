@@ -1,0 +1,24 @@
+{
+  "name": "Utopia Wanderer #4",
+  "description": "A unique artwork from the Utopia Wanderer Genesis collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcjcroPdgHuWyk8zAs7R1MpaAmURpq9YHSWftM1soCA3S",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmcjcroPdgHuWyk8zAs7R1MpaAmURpq9YHSWftM1soCA3S",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Utopia"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

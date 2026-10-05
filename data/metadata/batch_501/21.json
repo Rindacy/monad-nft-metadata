@@ -1,0 +1,24 @@
+{
+  "name": "Prism Rare #21",
+  "description": "A unique artwork from the Prism Rare Nexus collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmWzFMxhQygJjt4epzAxFrV7T6wUDdjhYvrndeKUnstQ9X",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmWzFMxhQygJjt4epzAxFrV7T6wUDdjhYvrndeKUnstQ9X",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Nexus"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "21"
+    }
+  ]
+}

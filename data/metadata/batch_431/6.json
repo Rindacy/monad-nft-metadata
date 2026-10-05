@@ -1,0 +1,24 @@
+{
+  "name": "Spectral Specter #6",
+  "description": "A unique artwork from the Spectral Specter Forge collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfFBffvkWW5rboxgM1XAFx8Fd9QHhBDLC6gFamLUoGzER",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmfFBffvkWW5rboxgM1XAFx8Fd9QHhBDLC6gFamLUoGzER",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Spectral"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Forge"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "6"
+    }
+  ]
+}

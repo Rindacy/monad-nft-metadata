@@ -1,0 +1,25 @@
+{
+  "name": "Kinetix Vibe Prime #5",
+  "description": "A unique artwork from the Kinetix Vibe Prime collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYi7onNfJwKPmHhww7acVyBQTq2U4C2Pk99AKYRL8Mzkd/group_batch_301.png",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmYi7onNfJwKPmHhww7acVyBQTq2U4C2Pk99AKYRL8Mzkd/group_batch_301.png",
+  "external_url": "https://pepe-vault.top",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Kinetix"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Vibe"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "5"
+    }
+  ]
+}

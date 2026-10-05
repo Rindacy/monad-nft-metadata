@@ -1,0 +1,24 @@
+{
+  "name": "Drift Artifact #4",
+  "description": "A unique artwork from the Drift Artifact Speed collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmQNz1sddGoem9MZsJccJc3KspLGEq8AH1m8UqAoPCWHpn",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmQNz1sddGoem9MZsJccJc3KspLGEq8AH1m8UqAoPCWHpn",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Drift"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Speed"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "4"
+    }
+  ]
+}

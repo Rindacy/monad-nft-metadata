@@ -1,0 +1,24 @@
+{
+  "name": "Nexus Entity #7",
+  "description": "A unique artwork from the Nexus Entity Originals collection on Monad.",
+  "image": "https://ipfs.filebase.io/ipfs/QmSJoD1nWEGuseFyPJQscUgaX1tqfc1vKSpktSdxkyhcUZ",
+  "image_url": "https://ipfs.filebase.io/ipfs/QmSJoD1nWEGuseFyPJQscUgaX1tqfc1vKSpktSdxkyhcUZ",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Nexus"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Originals"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "7"
+    }
+  ]
+}

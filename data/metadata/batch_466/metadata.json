@@ -1,0 +1,20 @@
+{
+  "name": "Elysian Toad Editions",
+  "description": "A unique artwork from the Elysian Toad Editions collection on Monad.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "image_url": "https://gateway.pinata.cloud/ipfs/QmV8ZEXeTn87ugtnn47NSKSqvz5tnyVfqRYXheEfsJ3MoU",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Elysian"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Editions"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    }
+  ]
+}
