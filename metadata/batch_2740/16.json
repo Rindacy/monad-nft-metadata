@@ -1,0 +1,22 @@
+{
+  "name": "MATRIX HAS YOU #16",
+  "description": "follow the white rabbit...\n\nmatrixhasyou.xyz",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://cdn.jsdelivr.net/gh/Rindacy/monad-nft-metadata@main/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmYR9r6FEhwUYPntjQ1igcnpmPzJeUYP5vPoPkTvAMf4zK/matrix_wakeup_neo_nft.gif",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "MATRIX HAS YOU"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Number",
+      "value": "16"
+    }
+  ]
+}
