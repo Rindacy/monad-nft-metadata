@@ -1,16 +1,14 @@
 {
-  "name": "Hyperion Pepe #12",
-  "description": "A unique artwork from the Hyperion Pepe Rebirth collection on Monad.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmTCBj9g4b8ihxhurVpVvzewNf6KYjwjY2ReuxDMNjGbM7",
-  "image_url": "https://gateway.pinata.cloud/ipfs/QmTCBj9g4b8ihxhurVpVvzewNf6KYjwjY2ReuxDMNjGbM7",
+  "name": "MATRIX HAS YOU #12",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Hyperion"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Rebirth"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

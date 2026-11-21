@@ -1,16 +1,14 @@
 {
-  "name": "Aetherium Relic #11",
-  "description": "A unique artwork from the Aetherium Relic Realm collection on Monad.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmcW1iABnnTNGq3YXDK1nMUAiPMEza9HAJnAbUcLTxia81",
-  "image_url": "https://gateway.pinata.cloud/ipfs/QmcW1iABnnTNGq3YXDK1nMUAiPMEza9HAJnAbUcLTxia81",
+  "name": "MATRIX HAS YOU #11",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Aetherium"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Realm"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

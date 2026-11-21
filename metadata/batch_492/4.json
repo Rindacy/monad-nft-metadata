@@ -1,16 +1,14 @@
 {
-  "name": "Futura Fren #4",
-  "description": "A unique artwork from the Futura Fren Chamber collection on Monad.",
-  "image": "https://gateway.pinata.cloud/ipfs/Qmbz6T6QTWifysPtE1t2Nv42FEhJ73GP1V1SGG4vzd25NA",
-  "image_url": "https://gateway.pinata.cloud/ipfs/Qmbz6T6QTWifysPtE1t2Nv42FEhJ73GP1V1SGG4vzd25NA",
+  "name": "MATRIX HAS YOU #4",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Futura"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Chamber"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

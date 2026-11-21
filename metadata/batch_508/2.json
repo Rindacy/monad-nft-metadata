@@ -1,16 +1,14 @@
 {
-  "name": "Warp Relic #2",
-  "description": "A unique artwork from the Warp Relic Works collection on Monad.",
-  "image": "https://ipfs.filebase.io/ipfs/QmV6S267mwJQsg9uqbsMDgixe9ym1q1b1kKxZgyyesc1By",
-  "image_url": "https://ipfs.filebase.io/ipfs/QmV6S267mwJQsg9uqbsMDgixe9ym1q1b1kKxZgyyesc1By",
+  "name": "MATRIX HAS YOU #2",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Warp"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Works"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

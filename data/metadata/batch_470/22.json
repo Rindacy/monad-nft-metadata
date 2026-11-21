@@ -1,16 +1,14 @@
 {
-  "name": "Neural Vision #22",
-  "description": "A unique artwork from the Neural Vision Twilight collection on Monad.",
-  "image": "https://ipfs.filebase.io/ipfs/QmeA4Xr69v2fuNG23yHcjMdW4rC6p4Jzy2D9ZqVr7CgMyv",
-  "image_url": "https://ipfs.filebase.io/ipfs/QmeA4Xr69v2fuNG23yHcjMdW4rC6p4Jzy2D9ZqVr7CgMyv",
+  "name": "MATRIX HAS YOU #22",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Neural"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Twilight"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

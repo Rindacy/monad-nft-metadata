@@ -1,16 +1,14 @@
 {
-  "name": "Solaria Hodler #16",
-  "description": "A unique artwork from the Solaria Hodler Matrix collection on Monad.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
-  "image_url": "https://gateway.pinata.cloud/ipfs/QmamUN9yikCbCPyyffP5XvS7T8X5hRjnEnB1HXdakTH6i4",
+  "name": "MATRIX HAS YOU #16",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Solaria"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Matrix"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",

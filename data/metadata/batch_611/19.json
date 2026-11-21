@@ -1,16 +1,14 @@
 {
-  "name": "Lunar Lily #19",
-  "description": "A unique artwork from the Lunar Lily Light collection on Monad.",
-  "image": "https://gateway.pinata.cloud/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
-  "image_url": "https://gateway.pinata.cloud/ipfs/QmeoNT66QR5U4MJfbpes6x8zQ1AYR3UCUiSoy41tvHsXtG",
+  "name": "MATRIX HAS YOU #19",
+  "description": "follow the white rabbit...",
+  "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
-      "value": "Lunar"
-    },
-    {
-      "trait_type": "Series",
-      "value": "Light"
+      "value": "MATRIX HAS YOU"
     },
     {
       "trait_type": "Network",
