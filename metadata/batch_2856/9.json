@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // SHW4WZ6T",
+  "description": "follow the white rabbit... Unique transmission #768273 — verification signature SHW4WZ6T.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#768273"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "SHW4WZ6T"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2856"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x3f4d54c547bce7f9"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "650.79 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

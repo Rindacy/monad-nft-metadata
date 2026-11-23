@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #18",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LS86TWD",
+  "description": "follow the white rabbit... Unique transmission #814063 — verification signature LS86TWD.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "18"
+      "trait_type": "Serial",
+      "value": "#814063"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LS86TWD"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2819"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x1d1737d5e660f75f"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Anomaly"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "813.73 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

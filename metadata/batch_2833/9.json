@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 9B6QEF",
+  "description": "follow the white rabbit... Unique transmission #411697 — verification signature 9B6QEF.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#411697"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "9B6QEF"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2833"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xa6bbb252b42d776f"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "403.84 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

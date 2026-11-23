@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #2",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // HTXN46",
+  "description": "follow the white rabbit... Unique transmission #901227 — verification signature HTXN46.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "2"
+      "trait_type": "Serial",
+      "value": "#901227"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "HTXN46"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2841"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x42d2191bb66af3f1"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Architect"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level V"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "616.48 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

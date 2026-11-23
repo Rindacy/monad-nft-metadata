@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #14",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // J5EQTAK",
+  "description": "follow the white rabbit... Unique transmission #332896 — verification signature J5EQTAK.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "14"
+      "trait_type": "Serial",
+      "value": "#332896"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "J5EQTAK"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2836"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xdaa03fce7fc6519e"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Zion-01"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "283.75 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

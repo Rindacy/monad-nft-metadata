@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #2",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 786RMWX",
+  "description": "follow the white rabbit... Unique transmission #954818 — verification signature 786RMWX.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "2"
+      "trait_type": "Serial",
+      "value": "#954818"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "786RMWX"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2858"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x850f710b4c173af4"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Monad-143"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "858.53 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

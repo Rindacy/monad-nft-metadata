@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #8",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // KS6XB43",
+  "description": "follow the white rabbit... Unique transmission #92545 — verification signature KS6XB43.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "8"
+      "trait_type": "Serial",
+      "value": "#92545"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "KS6XB43"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2820"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x908bfe73784ac3be"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "290.25 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

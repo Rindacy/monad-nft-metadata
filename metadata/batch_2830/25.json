@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #25",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // RNZYYZ4T",
+  "description": "follow the white rabbit... Unique transmission #366304 — verification signature RNZYYZ4T.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "25"
+      "trait_type": "Serial",
+      "value": "#366304"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "RNZYYZ4T"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2830"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x0b8d5ed42d21fb17"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Prism-88"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "636.38 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

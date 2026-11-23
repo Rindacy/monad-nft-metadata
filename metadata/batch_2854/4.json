@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #4",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 6PVWLR",
+  "description": "follow the white rabbit... Unique transmission #935466 — verification signature 6PVWLR.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "4"
+      "trait_type": "Serial",
+      "value": "#935466"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "6PVWLR"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2854"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xdb531cea0e29742d"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "464.43 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

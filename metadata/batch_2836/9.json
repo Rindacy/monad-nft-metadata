@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // SC386F7",
+  "description": "follow the white rabbit... Unique transmission #264247 — verification signature SC386F7.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#264247"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "SC386F7"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2836"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x2ffe06df4c5fb848"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Nebula-07"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "885.16 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

@@ -1,7 +1,27 @@
 {
-  "name": "MATRIX HAS YOU - Batch 2816",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU — Batch 2816",
+  "description": "follow the white rabbit... Collection archive batch_2816 [XWPX33].",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
-  "total_supply": 25
+  "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
+  "total_supply": 25,
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "MATRIX HAS YOU"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Monad"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2816"
+    },
+    {
+      "trait_type": "Batch Code",
+      "value": "XWPX33"
+    }
+  ]
 }

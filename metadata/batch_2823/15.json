@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #15",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // B9G5SQ",
+  "description": "follow the white rabbit... Unique transmission #70996 — verification signature B9G5SQ.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "15"
+      "trait_type": "Serial",
+      "value": "#70996"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "B9G5SQ"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2823"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x829c40b078fcafc0"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "978.15 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

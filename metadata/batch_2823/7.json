@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #7",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // XQY74P",
+  "description": "follow the white rabbit... Unique transmission #931326 — verification signature XQY74P.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "7"
+      "trait_type": "Serial",
+      "value": "#931326"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "XQY74P"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2823"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x654f8809d052cd3f"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "890.76 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

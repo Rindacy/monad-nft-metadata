@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #13",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // BR4HRML",
+  "description": "follow the white rabbit... Unique transmission #20314 — verification signature BR4HRML.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "13"
+      "trait_type": "Serial",
+      "value": "#20314"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "BR4HRML"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2826"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x7c4d4b6d097bedbf"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "572.55 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #1",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 9SXD4NU",
+  "description": "follow the white rabbit... Unique transmission #561591 — verification signature 9SXD4NU.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "1"
+      "trait_type": "Serial",
+      "value": "#561591"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "9SXD4NU"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2852"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xd27f5321248f2bd6"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "183.99 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #22",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 2NN5YV8Z",
+  "description": "follow the white rabbit... Unique transmission #528494 — verification signature 2NN5YV8Z.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "22"
+      "trait_type": "Serial",
+      "value": "#528494"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "2NN5YV8Z"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2859"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x17b57785f29aa1a9"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "858.63 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

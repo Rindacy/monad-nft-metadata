@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #20",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // MA7HVFLN",
+  "description": "follow the white rabbit... Unique transmission #324909 — verification signature MA7HVFLN.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "20"
+      "trait_type": "Serial",
+      "value": "#324909"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "MA7HVFLN"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2811"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x8c276098052517cd"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "820.99 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

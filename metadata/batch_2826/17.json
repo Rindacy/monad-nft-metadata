@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #17",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // Z36C88ZY",
+  "description": "follow the white rabbit... Unique transmission #997920 — verification signature Z36C88ZY.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "17"
+      "trait_type": "Serial",
+      "value": "#997920"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "Z36C88ZY"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2826"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x91012f790f63c04d"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Apex-19"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level V"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "107.65 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

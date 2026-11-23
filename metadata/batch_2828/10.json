@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #10",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // DQDCLN",
+  "description": "follow the white rabbit... Unique transmission #327100 — verification signature DQDCLN.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "10"
+      "trait_type": "Serial",
+      "value": "#327100"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "DQDCLN"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2828"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x262185affacc19d3"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Zion-01"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "600.64 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

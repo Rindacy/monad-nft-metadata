@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #3",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 4TRPPZS",
+  "description": "follow the white rabbit... Unique transmission #466128 — verification signature 4TRPPZS.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "3"
+      "trait_type": "Serial",
+      "value": "#466128"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "4TRPPZS"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2836"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xf731e63a86b475af"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Echo-21"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "549.94 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

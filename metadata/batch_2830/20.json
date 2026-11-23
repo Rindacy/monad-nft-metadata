@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #20",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // UQ95M2",
+  "description": "follow the white rabbit... Unique transmission #692027 — verification signature UQ95M2.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "20"
+      "trait_type": "Serial",
+      "value": "#692027"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "UQ95M2"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2830"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xb037bd7beb7af0e8"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "366.74 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

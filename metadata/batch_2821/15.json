@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #15",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // VB3TVC",
+  "description": "follow the white rabbit... Unique transmission #163271 — verification signature VB3TVC.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "15"
+      "trait_type": "Serial",
+      "value": "#163271"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "VB3TVC"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2821"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x9136ec69740efb25"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level V"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "753.12 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

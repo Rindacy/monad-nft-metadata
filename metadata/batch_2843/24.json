@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #24",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 3KP7SK",
+  "description": "follow the white rabbit... Unique transmission #306458 — verification signature 3KP7SK.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "24"
+      "trait_type": "Serial",
+      "value": "#306458"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "3KP7SK"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2843"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x8883dcca2131fec8"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Zion-01"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "473.25 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

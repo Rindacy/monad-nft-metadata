@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #5",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LA7QBLA7",
+  "description": "follow the white rabbit... Unique transmission #156548 — verification signature LA7QBLA7.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "5"
+      "trait_type": "Serial",
+      "value": "#156548"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LA7QBLA7"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2821"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xbc04e2217ee0cb9a"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "932.43 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

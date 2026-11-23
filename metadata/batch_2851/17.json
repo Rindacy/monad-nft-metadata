@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #17",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // E7AW9ZG8",
+  "description": "follow the white rabbit... Unique transmission #301930 — verification signature E7AW9ZG8.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "17"
+      "trait_type": "Serial",
+      "value": "#301930"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "E7AW9ZG8"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2851"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x7696e7cc1a934ab9"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Apex-19"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "992.70 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

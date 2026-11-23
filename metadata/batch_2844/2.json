@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #2",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 8DV97R",
+  "description": "follow the white rabbit... Unique transmission #58864 — verification signature 8DV97R.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "2"
+      "trait_type": "Serial",
+      "value": "#58864"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "8DV97R"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2844"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x03942be3d4e1ed10"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Echo-21"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "633.75 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

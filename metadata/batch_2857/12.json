@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #12",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // MVPG2A",
+  "description": "follow the white rabbit... Unique transmission #973787 — verification signature MVPG2A.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "12"
+      "trait_type": "Serial",
+      "value": "#973787"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "MVPG2A"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2857"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x72d3d49e040b8a99"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "480.09 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

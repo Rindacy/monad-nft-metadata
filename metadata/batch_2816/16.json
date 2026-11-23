@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #16",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LA9G7MU",
+  "description": "follow the white rabbit... Unique transmission #908867 — verification signature LA9G7MU.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "16"
+      "trait_type": "Serial",
+      "value": "#908867"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LA9G7MU"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2816"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x333e41bf62ce2cb1"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "365.13 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

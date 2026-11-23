@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #25",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // VE5K8K",
+  "description": "follow the white rabbit... Unique transmission #595396 — verification signature VE5K8K.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "25"
+      "trait_type": "Serial",
+      "value": "#595396"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "VE5K8K"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2814"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x0097bfeb47c48e11"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Anomaly"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "839.25 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

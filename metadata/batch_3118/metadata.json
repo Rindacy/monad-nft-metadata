@@ -1,7 +1,7 @@
 {
   "name": "MATRIX HAS YOU - Batch 3118",
-  "description": "follow the white rabbit...",
+  "description": "follow the white rabbit...\n\nmatrixhasyou.xyz",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
-  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
+  "image_url": "https://cdn.jsdelivr.net/gh/Rindacy/monad-nft-metadata@main/images/matrix_has_you.gif",
   "total_supply": 25
 }

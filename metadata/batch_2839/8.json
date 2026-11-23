@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #8",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LFFRFE8",
+  "description": "follow the white rabbit... Unique transmission #483074 — verification signature LFFRFE8.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "8"
+      "trait_type": "Serial",
+      "value": "#483074"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LFFRFE8"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2839"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xecfa36f25eeb1a8b"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "784.46 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

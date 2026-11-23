@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #5",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // X9SWJV",
+  "description": "follow the white rabbit... Unique transmission #34589 — verification signature X9SWJV.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "5"
+      "trait_type": "Serial",
+      "value": "#34589"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "X9SWJV"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2853"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x43824431afb70df8"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Architect"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "838.85 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

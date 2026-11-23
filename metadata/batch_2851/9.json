@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // RZ3B2R",
+  "description": "follow the white rabbit... Unique transmission #513513 — verification signature RZ3B2R.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#513513"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "RZ3B2R"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2851"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x40c80564018cf13a"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Apex-19"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "886.69 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

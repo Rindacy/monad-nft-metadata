@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #1",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LZ9SBC",
+  "description": "follow the white rabbit... Unique transmission #961630 — verification signature LZ9SBC.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "1"
+      "trait_type": "Serial",
+      "value": "#961630"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LZ9SBC"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2837"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x3d90453dae46674b"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Echo-21"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "343.90 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #7",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 9CRR3VPL",
+  "description": "follow the white rabbit... Unique transmission #526509 — verification signature 9CRR3VPL.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "7"
+      "trait_type": "Serial",
+      "value": "#526509"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "9CRR3VPL"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2859"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x0eae2d00ed3fba3d"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Nebula-07"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "932.61 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

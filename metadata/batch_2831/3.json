@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #3",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // V4H74VUS",
+  "description": "follow the white rabbit... Unique transmission #58155 — verification signature V4H74VUS.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "3"
+      "trait_type": "Serial",
+      "value": "#58155"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "V4H74VUS"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2831"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xc8cc70e1bf5f87c6"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Relay-09"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "508.10 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

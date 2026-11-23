@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #5",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // R8NE9U95",
+  "description": "follow the white rabbit... Unique transmission #504395 — verification signature R8NE9U95.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "5"
+      "trait_type": "Serial",
+      "value": "#504395"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "R8NE9U95"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2855"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x75809e22f1442f8f"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Echo-21"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "184.55 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #21",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // HTK9FW",
+  "description": "follow the white rabbit... Unique transmission #426467 — verification signature HTK9FW.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "21"
+      "trait_type": "Serial",
+      "value": "#426467"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "HTK9FW"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2844"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x2111912daa4dc5bc"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "645.12 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #11",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // ZPQ3MA",
+  "description": "follow the white rabbit... Unique transmission #744119 — verification signature ZPQ3MA.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "11"
+      "trait_type": "Serial",
+      "value": "#744119"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "ZPQ3MA"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2816"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x98927110cd856cb8"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Nebula-07"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "590.66 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

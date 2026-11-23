@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LUCHC5",
+  "description": "follow the white rabbit... Unique transmission #246386 — verification signature LUCHC5.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#246386"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LUCHC5"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2822"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xf8c3c8644d21cfb9"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "667.39 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

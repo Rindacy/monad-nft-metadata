@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #20",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 74CTGQ",
+  "description": "follow the white rabbit... Unique transmission #299461 — verification signature 74CTGQ.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "20"
+      "trait_type": "Serial",
+      "value": "#299461"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "74CTGQ"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2833"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x09e5b4d2f3dfbb14"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Nebula-07"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "367.26 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #4",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // RNPW6TVB",
+  "description": "follow the white rabbit... Unique transmission #525402 — verification signature RNPW6TVB.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "4"
+      "trait_type": "Serial",
+      "value": "#525402"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "RNPW6TVB"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2819"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x97e7c404d5159ffb"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Nebula-07"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "221.58 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

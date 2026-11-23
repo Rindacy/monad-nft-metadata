@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #9",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // 3WGYDP9Z",
+  "description": "follow the white rabbit... Unique transmission #280149 — verification signature 3WGYDP9Z.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "9"
+      "trait_type": "Serial",
+      "value": "#280149"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "3WGYDP9Z"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2850"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x19470345d1057152"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Architect"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Monad-143"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "590.26 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

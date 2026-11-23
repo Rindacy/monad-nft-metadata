@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #12",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // LE6WALE",
+  "description": "follow the white rabbit... Unique transmission #803318 — verification signature LE6WALE.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "12"
+      "trait_type": "Serial",
+      "value": "#803318"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "LE6WALE"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2837"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x02f6c015ec6d4f44"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Prism-88"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "208.02 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

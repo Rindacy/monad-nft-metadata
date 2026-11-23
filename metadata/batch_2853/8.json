@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #8",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // SF97C3T",
+  "description": "follow the white rabbit... Unique transmission #438662 — verification signature SF97C3T.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "8"
+      "trait_type": "Serial",
+      "value": "#438662"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "SF97C3T"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2853"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x64e8f5e9730edc15"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Monad-143"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "949.20 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

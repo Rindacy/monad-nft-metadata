@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #18",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // RM77W8Z",
+  "description": "follow the white rabbit... Unique transmission #796653 — verification signature RM77W8Z.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "18"
+      "trait_type": "Serial",
+      "value": "#796653"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "RM77W8Z"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2822"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x1b3c57037d2123dc"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "183.07 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

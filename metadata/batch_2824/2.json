@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #2",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // YEEM4QP",
+  "description": "follow the white rabbit... Unique transmission #316557 — verification signature YEEM4QP.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "2"
+      "trait_type": "Serial",
+      "value": "#316557"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "YEEM4QP"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2824"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xe536e43a05bffa4a"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Zion-01"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level IV"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "982.50 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }

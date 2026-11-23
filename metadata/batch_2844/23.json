@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #23",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // TP4QY3L",
+  "description": "follow the white rabbit... Unique transmission #388121 — verification signature TP4QY3L.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "23"
+      "trait_type": "Serial",
+      "value": "#388121"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "TP4QY3L"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2844"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x405ca08fa5959978"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Null-00"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level II"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "543.56 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

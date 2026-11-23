@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #18",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // SUPJ9VVL",
+  "description": "follow the white rabbit... Unique transmission #637331 — verification signature SUPJ9VVL.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "18"
+      "trait_type": "Serial",
+      "value": "#637331"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "SUPJ9VVL"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2848"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0xbaaf59b85d7d2239"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426492
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Cipher"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "423.05 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:52.000Z"
 }

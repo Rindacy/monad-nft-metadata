@@ -1,6 +1,6 @@
 {
-  "name": "MATRIX HAS YOU #25",
-  "description": "follow the white rabbit...",
+  "name": "MATRIX HAS YOU // U9BKNF",
+  "description": "follow the white rabbit... Unique transmission #36105 — verification signature U9BKNF.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
   "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "25"
+      "trait_type": "Serial",
+      "value": "#36105"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "U9BKNF"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2827"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x799fb67e6c09bdc8"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795426491
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Vector-12"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level III"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "574.95 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T09:34:51.000Z"
 }
