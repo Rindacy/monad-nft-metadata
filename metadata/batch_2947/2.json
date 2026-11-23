@@ -1,10 +1,10 @@
 {
-  "name": "MATRIX HAS YOU #2",
-  "description": "follow the white rabbit...\n\nmatrixhasyou.xyz",
+  "name": "MATRIX HAS YOU // SFMK8LS",
+  "description": "follow the white rabbit... Unique transmission #51980 — verification signature SFMK8LS.",
   "image": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
-  "image_url": "https://cdn.jsdelivr.net/gh/Rindacy/monad-nft-metadata@main/images/matrix_has_you.gif",
+  "image_url": "https://rindacy.github.io/monad-nft-metadata/images/matrix_has_you.gif",
   "animation_url": "https://raw.githubusercontent.com/Rindacy/monad-nft-metadata/main/images/matrix_has_you.gif",
-  "ipfs_image": "ipfs://QmYR9r6FEhwUYPntjQ1igcnpmPzJeUYP5vPoPkTvAMf4zK/matrix_wakeup_neo_nft.gif",
+  "ipfs_image": "ipfs://QmaVop1K5b38wTtVbU9xP1EX25boEs7JF4zN5eeP7QMNag",
   "attributes": [
     {
       "trait_type": "Collection",
@@ -15,8 +15,42 @@
       "value": "Monad"
     },
     {
-      "trait_type": "Number",
-      "value": "2"
+      "trait_type": "Serial",
+      "value": "#51980"
+    },
+    {
+      "trait_type": "Edition Code",
+      "value": "SFMK8LS"
+    },
+    {
+      "trait_type": "Batch ID",
+      "value": "batch_2947"
+    },
+    {
+      "trait_type": "Generation Seed",
+      "value": "0x96faa7c1ce454d7b"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Mint Timestamp",
+      "value": 1795449474
+    },
+    {
+      "trait_type": "Signal Tier",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Sector",
+      "value": "Core-04"
+    },
+    {
+      "trait_type": "Clearance",
+      "value": "Level I"
+    },
+    {
+      "trait_type": "Frequency",
+      "value": "455.22 MHz"
     }
-  ]
+  ],
+  "generated_at": "2026-11-23T15:57:54.000Z"
 }
